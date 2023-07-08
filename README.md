@@ -1,6 +1,6 @@
 ### Hi there 👋
-This is Teeya Ojha.
-I am a BTech CSE student at Indira Gandhi Delhi Technical University For Women. 
+This is Teeya Ojha. \n 
+I am a BTech CSE student at Indira Gandhi Delhi Technical University For Women. \n 
 My tech stack is Web Development and Ethical Hacking. 
 I aim to develop secure websites and help others make their website secure. 
 I have also written a blog on web-based ethical hacking; you can check it out here: https://ethicalhacking.hashnode.dev/web-based-ethical-hacking
