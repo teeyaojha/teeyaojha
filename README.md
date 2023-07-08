@@ -1,4 +1,12 @@
 ### Hi there 👋
+This is Teeya Ojha.
+I am a BTech CSE student at Indira Gandhi Delhi Technical University For Women. 
+My tech stack is Web Development and Ethical Hacking. 
+I aim to develop secure websites and help others make their website secure. 
+I have also written a blog on web-based ethical hacking; you can check it out here: https://ethicalhacking.hashnode.dev/web-based-ethical-hacking
+You can reach me here through my socials: https://linktr.ee/teeyaojha
+You can also check out my Leetcode and GFG profiles here.
+I hope you'll like my projects 😃
 
 <!--
 **teeyaojha/teeyaojha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
